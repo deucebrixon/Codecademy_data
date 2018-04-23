@@ -1,0 +1,1 @@
+I included a screenshot of the calculator issue I was having.  I can log a case for it on the material, but I wanted to mention it here, since I feel lame resubmitting this.
